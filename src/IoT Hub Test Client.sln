@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT Hub Test Client", "IoT Hub Test Client\IoT Hub Test Client.csproj", "{DA8B3CB5-C30D-4029-8840-A33D36A2FF8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8B3CB5-C30D-4029-8840-A33D36A2FF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8B3CB5-C30D-4029-8840-A33D36A2FF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8B3CB5-C30D-4029-8840-A33D36A2FF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8B3CB5-C30D-4029-8840-A33D36A2FF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+		SolutionGuid = {2C2C9E58-7791-48EE-B0A0-14ECC35D0EDC}
+	EndGlobalSection
+EndGlobal
